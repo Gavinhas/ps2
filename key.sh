@@ -33,4 +33,4 @@ sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools
 
 cd ~/memory-card
 
-./script/script.sh
+./script/arch.sh
