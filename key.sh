@@ -1,6 +1,4 @@
-#!/bin/usr/env bash
-
-
+#!/bin/env/usr bash
 
 # Insert Pendrive
 echo "insert the "ARCH" pendrive and type 'C' to continue"
