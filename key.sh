@@ -28,3 +28,5 @@ git clone "git@github.com:Gavinhas/memory-card.git"
 # Install ZSH
 sudo pacman -S zsh
 sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sed -i 's/robbyrussell/amuse/g' ~/.zshrc
+exit
