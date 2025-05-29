@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#HTML ",
+      "color": {
+        "a": 1,
+        "rgb": 16692578
+      }
+    },
+    {
+      "query": "tag:#CSS  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431394
+      }
+    },
+    {
+      "query": "tag:#HTMCSS  ",
+      "color": {
+        "a": 1,
+        "rgb": 4482560
+      }
+    },
+    {
+      "query": "tag:#Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 3158064
+      }
+    },
+    {
+      "query": "tag: #Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag: #SF25  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag: #SF26  ",
+      "color": {
+        "a": 1,
+        "rgb": 5122738
+      }
+    },
+    {
+      "query": "tag:#Basic  ",
+      "color": {
+        "a": 1,
+        "rgb": 11468544
+      }
+    },
+    {
+      "query": "tag:#Python  ",
+      "color": {
+        "a": 1,
+        "rgb": 728318
+      }
+    },
+    {
+      "query": "tag:#SF14  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag: #IA  ",
+      "color": {
+        "a": 1,
+        "rgb": 16765301
+      }
+    },
+    {
+      "query": "tag: #SQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 2.06510416666667,
+  "lineSizeMultiplier": 2.0140625,
+  "collapse-forces": true,
+  "centerStrength": 0.255208333333333,
+  "repelStrength": 7.5,
+  "linkStrength": 0.526041666666667,
+  "linkDistance": 250,
+  "scale": 0.1808041451514938,
+  "close": false
+}

@@ -1,0 +1,12 @@
+/* Nicer Typography */
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+.cm-s-obsidian {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  font-size: 15px;
+}
+

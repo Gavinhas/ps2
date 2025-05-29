@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "showRibbon": true,
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "nicer-typography"
+  ]
+}

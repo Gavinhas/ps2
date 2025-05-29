@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "f6cb513c49a7d6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "220b3c73dfbda716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ee80d088e3e6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - FIAP/FASE 7 - INTEGRATION/2707 - PLATAFORMAS DE CHATBOT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2707 - PLATAFORMAS DE CHATBOT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ee8943ba5a689cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0569b2153b790930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9f1158edfc5ff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c0a1f220b0ef5f54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23fc9223b70e6c97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5124969482422
+  },
+  "right": {
+    "id": "e7f56ba77b9232a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a976e9d9fc03e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120e1c41390b4845",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IA/Machine Learning (ML).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Machine Learning (ML)"
+            }
+          },
+          {
+            "id": "494615332f370ae2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9f9fdfb28a73235b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d085c2b2645670cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - FIAP/FASE 7 - INTEGRATION/2707 - PLATAFORMAS DE CHATBOT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2707 - PLATAFORMAS DE CHATBOT"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "59ee80d088e3e6dd",
+  "lastOpenFiles": [
+    "01 - FIAP/FASE 7 - INTEGRATION/FASE 7 - INTEGRATION.canvas",
+    "01 - FIAP/FASE 7 - INTEGRATION/2706 - ESTE ESTUDO DE CASO PODE TE AJUDAR.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2702 - MAIS DINAMISMO NA INTERFACE COM O USUARIO.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - PDF/1TDS - Fase 07 - Cap02 - Mais dinamismo na interface .docx_RevFinal.pdf",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - SUMARY.md",
+    "JAVA/ACTION <JSP;FORWARD>.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2703 - JSP, A INTERFACE DO USUARIO EM JAVA.md",
+    "01 - FIAP/01 - FIAP.canvas",
+    "JAVASCRIPT/VARIAVEIS COM TAGS.md",
+    "GIT/GIT.md",
+    "LINKEDIN/LINKEDIN.md",
+    "Untitled.md",
+    "socorr.md",
+    "IA/IA.md",
+    "Obsidian.md",
+    "MVC.md",
+    "ESTUDOS.canvas",
+    "Untitled/Untitled.md",
+    "1 - DESENVOLVE/1 - DESENVOLVE.canvas",
+    "0000 - SUMARY/0000 - SUMARY.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - PDF/1TDS - Fase 07 - Cap06 - Este estudo de caso.docx_RevFinal.pdf",
+    "01 - FIAP/FASE 7 - INTEGRATION/2707 - PLATAFORMAS DE CHATBOT.md",
+    "Untitled/Untitled 1.md",
+    "Untitled",
+    "01 - FIAP/FASE 7 - INTEGRATION/2704 - FRAMEWORK EM JAVA.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2705 - A ALTERNATIVA DO FACEBOOK.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2706 - FIG 01 - ARQUITETURA MVC COM SERVLET E JSP.png",
+    "JAVASCRIPT/COMPONENTES.md",
+    "JAVASCRIPT",
+    "JAVASCRIPT/CONCEITOS BASICOS NODEJS.md",
+    "JAVASCRIPT/EL E JAVABEANS.md",
+    "JAVASCRIPT/INICIALIZACAO REACT.md",
+    "JAVASCRIPT/JSTL.md",
+    "JAVASCRIPT/JSX.md",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - PDF/1TDS - Fase 07 - Cap05 - A alternativa do Facebook.docx_RevFinal.pdf",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - PDF/1TDS - Fase 07 - Cap03 - JSP a interface do usuario.docx_RevFinal.pdf",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - PDF",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 15 - VISAO GERAL DO FLUXO DE PROCESSAMENTO DO REQUEST.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 11 - VISAO GERAL DO PROCESSAMENTO DA REQUEST.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 07 - METODOS PARA RECUPERARA CADA INFORMACAO.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 06 - EXEMPLO DE UMA URL PARA REQUISICAO.png",
+    "GETATRIBUTE(STRING)/SETATRIBUTE(STRING",
+    "GETATRIBUTE(STRING)",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 5 - SEQUENCIA DE EVENTOS SERVLET.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 04 - CICLO DE VIDA DE UMA SERVLET.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - FIG 3 - EXEMPLO DE REQUISICAO A UMA SERVLET.png",
+    "01 - FIAP/FASE 7 - INTEGRATION/2700 - IMG/2702 - Fig 1 - SISTEMA UTILIZANDO REQUEST RESPONSE.png",
+    "IA/IA-IMG/REINFORCEMENT ML.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

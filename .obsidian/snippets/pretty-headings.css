@@ -1,0 +1,21 @@
+/* Pretty Headings */
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+  margin-top: 1.5em;
+  border-bottom: 2px solid var(--text-accent);
+  padding-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.6em;
+  font-weight: 600;
+  margin-top: 1.2em;
+}
+
+h3 {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-top: 1em;
+}
+

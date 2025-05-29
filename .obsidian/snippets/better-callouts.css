@@ -1,0 +1,17 @@
+/* Better Callouts */
+.callout[data-callout="note"] {
+  border-left: 4px solid #5dade2;
+  background-color: #eaf3fb;
+  padding: 0.8em;
+}
+
+.callout[data-callout="warning"] {
+  border-left: 4px solid #f5b041;
+  background-color: #fff3e0;
+}
+
+.callout[data-callout="tip"] {
+  border-left: 4px solid #58d68d;
+  background-color: #e8f8f5;
+}
+
